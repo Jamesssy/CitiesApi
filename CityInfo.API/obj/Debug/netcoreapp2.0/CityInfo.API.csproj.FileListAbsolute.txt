@@ -20,3 +20,4 @@ C:\Projekt\CitiesApi\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyI
 C:\Projekt\CitiesApi\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.AssemblyInfo.cs
 C:\Projekt\CitiesApi\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.dll
 C:\Projekt\CitiesApi\CityInfo.API\obj\Debug\netcoreapp2.0\CityInfo.API.pdb
+C:\Projekt\CitiesApi\CityInfo.API\bin\Debug\netcoreapp2.0\nlog.config
